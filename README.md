@@ -26,10 +26,10 @@
 ### About Me :
 I am a Java Junior Developer
 
-- I started programming in 2019 on <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Java" alt="python" width="25" height="25" align="center"/>
+- I started programming in 2019 on <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Java" alt="python" width="25" height="25" align="center"/>
 
 
-- I switched to <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" title="Java" alt="python" width="25" height="25" align="center"/> and started actively studying programming in 2022
+- I switched to <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="python" width="25" height="25" align="center"/> and started actively studying programming in 2022
 
 
 - I'm a third-year IT student (2022-2023) pursuing a programmer qualification.
