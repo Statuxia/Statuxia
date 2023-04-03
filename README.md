@@ -4,14 +4,14 @@
 
 <div id="badges" align="center">
     <a href="https://t.me/statuxia">
-    <img src="https://shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://shields.io/badge/@Statuxia-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <!-- Добавлен никнейм вместо ID, потому что без общих серверов профиль не находится. -->
     <a href="https://discordapp.com/users/Statuxia#9383"> 
-    <img src="https://shields.io/badge/discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://shields.io/badge/Statuxia%239383-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
     <a href="https://vk.com/istatuxia">
-    <img src="https://shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+    <img src="https://shields.io/badge/istatuxia-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
     </a>
 </div>
 
@@ -42,7 +42,7 @@ I am a Java Junior Developer
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40" align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40" align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="git" alt="git" width="40" height="40" align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gradle/gradle-plain.svg" title="git" alt="git" width="40" height="40" align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gradle/gradle-plain.svg" title="gradle" alt="gradle" width="40" height="40" align="center">
 </div>
 
 ### My Stats :
