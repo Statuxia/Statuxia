@@ -1,14 +1,10 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/60938251/229305172-875d2e1e-49d9-46ff-a6c7-215820479b87.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/60938251/236641848-feac8638-c16c-4e45-9577-6c4dcd575d49.png" width="100"/>
 </div>
 
 <div id="badges" align="center">
     <a href="https://t.me/statuxia">
     <img src="https://shields.io/badge/@Statuxia-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-    <!-- Добавлен никнейм вместо ID, потому что без общих серверов профиль не находится. -->
-    <a href="https://discordapp.com/users/Statuxia#9383"> 
-    <img src="https://shields.io/badge/Statuxia%239383-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
     <a href="https://vk.com/istatuxia">
     <img src="https://shields.io/badge/istatuxia-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
