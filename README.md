@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/60938251/236641848-feac8638-c16c-4e45-9577-6c4dcd575d49.png" width="100"/>
-</div>
-
 <div id="badges" align="center">
     <a href="https://t.me/statuxia">
     <img src="https://shields.io/badge/@Statuxia-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -35,7 +31,6 @@ I am a Java Junior Developer
 ### Languages and Tools:
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="java" alt="java" width="40" height="40" align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40" align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40" align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="git" alt="git" width="40" height="40" align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gradle/gradle-plain.svg" title="gradle" alt="gradle" width="40" height="40" align="center">
