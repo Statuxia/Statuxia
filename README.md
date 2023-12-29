@@ -35,7 +35,6 @@ I'm a Java Junior Developer
     <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" title="hibernate" alt="hibernate" width="40" height="40" align="center">
     <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" title="junit" alt="junit" width="40" height="40" align="center">
     <img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" title="lombok" alt="lombok" width="40" height="40" align="center">
-    <img src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" title="tomcat" alt="tomcat" width="40" height="40" align="center">
 </div>
 
 #### Other
