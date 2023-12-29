@@ -21,7 +21,7 @@ I'm a Java Junior Developer
 
 - I'm a fourth-year IT student (2020-2024) pursuing a programmer qualification.
 
-- <a href="http://xn--d1abafrgaft.xn--p1ai/news.php?id=255">Participant of the 4th International Olympiad "Database Design and Development", organized by the Yekaterinburg Assembly College (34/229 place)</a>
+- <a href="http://емколледж.рф/news.php?id=514">Winner of the V International Olympiad “Design and Development of Databases”, organized by the Yekaterinburg Assembly College (III place)</a>
 
 ### Languages and Tools:
 
