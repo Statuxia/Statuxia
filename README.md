@@ -10,6 +10,8 @@
   👋 Hello! I'm Statuxia (Stanislav)
 </h1>
 
+<h3>
+
 - I started programming in 2019 on <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="python" width="25" height="25" align="center"/>
 
 - I switched to <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="python" width="25" height="25" align="center"/> and started actively studying programming in 2022
@@ -17,6 +19,7 @@
 - I'm a fourth-year IT student (2020-2024) pursuing a programmer qualification.
 
 - <a href="http://емколледж.рф/news.php?id=514">Winner of the V International Olympiad “Design and Development of Databases”, organized by the Yekaterinburg Assembly College (III place)</a>
+</h3>
 
 ---
 <div align="center">
