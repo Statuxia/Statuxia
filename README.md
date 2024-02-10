@@ -24,6 +24,8 @@
     <br>
     <img src='https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,gradle,maven,postgresql' alt='main'><br>
     <img src='https://skillicons.dev/icons?i=empty,postman,idea,vscode,linux,docker,empty' alt='other'><br><br><br>
-    <img src='http://github-readme-streak-stats.herokuapp.com?user=statuxia&theme=tokyonight'>
+    <p>
+    <img src='http://github-readme-streak-stats.herokuapp.com?user=statuxia&theme=tokyonight&hide_current_streak=true'>
     <img src='https://github-readme-stats-tawny-three-51.vercel.app/api/top-langs/?username=statuxia&theme=tokyonight&layout=compact' height=195>
+    </p>
 </div>
