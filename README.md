@@ -20,11 +20,30 @@
 </h3>
 
 ---
-<div align="center">
+<div>
+    <table border=0>
+      <tr>
+        <th>
+          <h2 align="center">Stack</h2>
+        </th>
+        <th>
+          <h2 align="center">Experience</h2>
+        </th>
+      </tr>
+      <tr>
+        <td>
+          <img src='https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,gradle,maven,postgresql,idea,vscode,linux,docker,postman&perline=6' alt='stack'>
+        </td>
+        <td>
+          <img src='https://skillicons.dev/icons?i=java,kotlin,python,cpp,dart,js,empty,spring,hibernate,flutter,django,empty&perline=6' alt='experience'>
+        </td>
+      </tr>
+    </table>
     <br>
-    <img src='https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,gradle,maven,postgresql' alt='main'><br>
-    <img src='https://skillicons.dev/icons?i=empty,postman,idea,vscode,linux,docker,empty' alt='other'><br><br><br>
-    <p>
+</div>
+
+<div align="center">
+<p>
     <img src='http://github-readme-streak-stats.herokuapp.com?user=statuxia&theme=tokyonight&hide_current_streak=true&card_width=350'>
     <img src='https://github-readme-stats-tawny-three-51.vercel.app/api/top-langs/?username=statuxia&theme=tokyonight&layout=compact' height=195>
     </p>
