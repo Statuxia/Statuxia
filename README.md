@@ -20,7 +20,7 @@
 </h3>
 
 ---
-<div>
+<div aling="center">
     <table border=0>
       <tr>
         <th>
