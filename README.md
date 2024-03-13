@@ -40,10 +40,3 @@
       </tr>
     </table>
 </div>
-
-<div align="center">
-    <p>
-    <img src='http://github-readme-streak-stats.herokuapp.com?user=statuxia&theme=tokyonight&hide_current_streak=true&card_width=350'>
-    <img src='https://github-readme-stats-tawny-three-51.vercel.app/api/top-langs/?username=statuxia&theme=tokyonight&layout=compact' height=195>
-    </p>
-</div>
