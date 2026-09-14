@@ -46,7 +46,5 @@ I started my programmer’s journey in 2019 with python. In 2022 I switched to j
 # 📫 Contact
 You can found all my concacts below profile image
 
-# ✨ Fun facts
-- I like listening to DnD's sessions by "[Бесценный опыт](https://www.youtube.com/@bo_dnd)"
-- Wrote primitive [antivirus](https://github.com/Statuxia/PathSweeper) on different language just to remove the virus from college computers
-- Hobbies: Puzzles
+# ✨ Hobbies
+- Mineralogy
