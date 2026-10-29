@@ -1,50 +1,56 @@
-## Hi there 👋
+## Привет!
 
-I'm <a href="https://github.com/Statuxia">Stanislav</a>, a Java Developer based in Russia
+Я — <a href="https://github.com/Statuxia">Станислав</a>, Java-разработчик.
 
-### 🔭 About my journey as a developer
-I started my programmer’s journey in 2019 with python. In 2022 I switched to java for better experience, and in 2024 I was hired, which marked a big leap in development skills.
+### Коротко о пути в программировании
 
-### ⚡ Main tech stack
-<details>
-  <summary><br><img src='https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,docker&perline=6' alt='java, spring, hibernate, postgresql, docker'></summary>
+- Начал в 2019 с Python
+- В 2022 перешёл на Java
+- В 2024 получил первую работу Java-разработчиком
+- С середины 2026 в поиске новых возможностей
+
+### Основной стек
+
+<details open>
+  <summary><br><img src='https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,kafka,docker&perline=6' alt='java, spring, hibernate, postgresql, kafka, docker'></summary>
 
   <table>
-  <th>Group</th>
-  <th>Stack</th>
+  <th>Группа</th>
+  <th>Стек</th>
   <tr>
-    <td>Frameworks</td>
+    <td>Фреймворки</td>
     <td>Spring Core, Spring Boot, Spring Data,<br> Spring Web, Spring Security, Spring AOP, Hibernate</td>
   </tr>
   <tr>
-    <td>Testing</td>
-    <td>JUnit5, Mockito, Hamcrest, Testcontainers</td>
+    <td>Messaging</td>
+    <td>Kafka</td>
   </tr>
   <tr>
-    <td>Containers</td>
-    <td>Docker</td>
+    <td>БД / кэш</td>
+    <td>PostgreSQL, Redis</td>
   </tr>
   <tr>
-    <td>RDBMS/NoSQL</td>
-    <td>PostgreSQL, Redis, MySQL, MariaDB, MSSQL, H2, sqlite</td>
+    <td>Тестирование</td>
+    <td>JUnit5, Mockito, Testcontainers</td>
   </tr>
   <tr>
-    <td>Build</td>
-    <td>Maven, Gradle</td>
+    <td>Контейнеризация</td>
+    <td>Docker, Docker Compose</td>
+  </tr>
+  <tr>
+    <td>Сборка</td>
+    <td>Gradle, Maven</td>
   </tr>
   <tr>
     <td>CI/CD</td>
-    <td>TeamCity, GitHub Actions</td>
+    <td>GitHub Actions</td>
   </tr>
   <tr>
-    <td>Other</td>
-    <td>Liquibase, Checkstyle, SonarQube, VisualVM, GRPc, git,<br> Jackson, Swagger, RabbitMQ, jdeb, MapStruct, Linux, curl</td>
+    <td>Прочее</td>
+    <td>Liquibase, REST API, WebSockets, Swagger/OpenAPI, Git, Linux</td>
   </tr>
 </table>
 </details>
 
-# 📫 Contact
-You can found all my concacts below profile image
-
-# ✨ Hobbies
-- Mineralogy
+## Хобби
+- Минералогия
